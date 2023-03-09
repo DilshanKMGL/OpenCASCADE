@@ -1,5 +1,5 @@
 #include "geom_IndependentShapeCheck.h"
-// Changed
+
 //TGenCAE
 //OCCT
 #include <TopExp.hxx>
